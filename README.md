@@ -1,10 +1,9 @@
 ```markdown
-# Caesar-Cipher
 
 # Caesar Cipher Encryption in Python
 
 This Python script implements a basic Caesar cipher encryption technique. The Caesar cipher shifts each letter in a plaintext message by a fixed number of positions down or up the alphabet.
-
+```
 ## Overview
 
 The `caesar_cipher.py` script provides a command-line interface to encrypt messages using the Caesar cipher. It takes user input for the plaintext message and the shift value (encryption key), and then outputs the encrypted message.
