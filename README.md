@@ -58,6 +58,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize and expand this README.md file to include more detailed explanations, usage examples, or information about the decryption process if applicable. Markdown syntax allows you to create headers, lists, code blocks, and other formatting elements to make your README clear and informative.
-```
 
